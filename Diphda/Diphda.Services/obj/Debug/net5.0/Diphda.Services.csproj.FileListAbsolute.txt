@@ -3,9 +3,7 @@ C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphd
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\ref\Diphda.Services.dll
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphda.Services.pdb
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphda.Domain.dll
-C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphda.Infrastructure.dll
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphda.Domain.pdb
-C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\bin\Debug\net5.0\Diphda.Infrastructure.pdb
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\obj\Debug\net5.0\Diphda.Services.csproj.AssemblyReference.cache
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\obj\Debug\net5.0\Diphda.Services.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Services\obj\Debug\net5.0\Diphda.Services.AssemblyInfoInputs.cache

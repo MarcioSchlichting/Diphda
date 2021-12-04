@@ -3,7 +3,6 @@ namespace Diphda.Services
     using System.Threading.Tasks;
     using System.Collections.Generic;
     using Diphda.Domain.Abstractions;
-    using Diphda.Infrastructure.Repositories;
 
     public class BaseService<TEntity> : IBaseService<TEntity> where TEntity : BaseEntity
     {

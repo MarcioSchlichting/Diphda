@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Diphda.Domain\Diphda.Domain.csproj" />
-    <ProjectReference Include="..\Diphda.Infrastructure\Diphda.Infrastructure.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

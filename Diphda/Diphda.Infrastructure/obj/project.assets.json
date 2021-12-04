@@ -1529,6 +1529,19 @@
         "runtime": {
           "bin/placeholder/Diphda.Domain.dll": {}
         }
+      },
+      "Diphda.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Diphda.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Diphda.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Diphda.Services.dll": {}
+        }
       }
     }
   },
@@ -5802,11 +5815,17 @@
       "type": "project",
       "path": "../Diphda.Domain/Diphda.Domain.csproj",
       "msbuildProject": "../Diphda.Domain/Diphda.Domain.csproj"
+    },
+    "Diphda.Services/1.0.0": {
+      "type": "project",
+      "path": "../Diphda.Services/Diphda.Services.csproj",
+      "msbuildProject": "../Diphda.Services/Diphda.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Diphda.Domain >= 1.0.0",
+      "Diphda.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Relational >= 5.0.0",
@@ -5843,6 +5862,9 @@
           "projectReferences": {
             "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Domain\\Diphda.Domain.csproj": {
               "projectPath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Domain\\Diphda.Domain.csproj"
+            },
+            "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Services\\Diphda.Services.csproj": {
+              "projectPath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Services\\Diphda.Services.csproj"
             }
           }
         }

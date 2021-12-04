@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Diphda.Domain\Diphda.Domain.csproj" />
+    <ProjectReference Include="..\Diphda.Services\Diphda.Services.csproj" />
   </ItemGroup>
 
 </Project>

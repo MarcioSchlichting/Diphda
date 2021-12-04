@@ -9,6 +9,7 @@
       "Diphda.Infrastructure/1.0.0": {
         "dependencies": {
           "Diphda.Domain": "1.0.0",
+          "Diphda.Services": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.0",
@@ -1067,6 +1068,14 @@
         "runtime": {
           "Diphda.Domain.dll": {}
         }
+      },
+      "Diphda.Services/1.0.0": {
+        "dependencies": {
+          "Diphda.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Diphda.Services.dll": {}
+        }
       }
     }
   },
@@ -1756,6 +1765,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "Diphda.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Diphda.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

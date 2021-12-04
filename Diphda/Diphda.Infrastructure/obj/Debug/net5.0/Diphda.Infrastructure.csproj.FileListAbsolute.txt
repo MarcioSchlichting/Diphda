@@ -16,3 +16,5 @@ C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\ref\Diphda.Infrastructure.dll
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.pdb
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.genruntimeconfig.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Services.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Services.pdb

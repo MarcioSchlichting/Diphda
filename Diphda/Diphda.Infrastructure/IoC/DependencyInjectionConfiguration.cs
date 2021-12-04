@@ -5,6 +5,7 @@ namespace Diphda.Infrastructure
     using Diphda.Domain.Account;
     using Diphda.Domain.Abstractions;
     using Diphda.Infrastructure.Repositories;
+    using Diphda.Services;
 
     public static class DependencyInjectionConfiguration
     {
@@ -12,8 +13,8 @@ namespace Diphda.Infrastructure
         {
             service.AddDbContext<DatabaseContext>(option => option.UseSqlServer(databaseConnectionString));
             service.AddTransient<IBaseRepository<User>, UserRepository>();
-            // service.AddTransient<IBaseService<User>, UserService>();
-            // service.AddTransient<IBaseService<BaseEntity>, BaseService<BaseEntity>>();
+            service.AddTransient<IBaseService<User>, UserService>();
+            service.AddTransient<IBaseService<BaseEntity>, BaseService<BaseEntity>>();
             // service.AddTransient<IBaseRepository<BaseEntity>, BaseRepository<BaseEntity>>();
             service.AddScoped<DatabaseContext>();
         }
