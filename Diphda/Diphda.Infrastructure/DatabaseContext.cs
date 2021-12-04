@@ -2,6 +2,7 @@ namespace Diphda.Infrastructure
 {
     using Microsoft.EntityFrameworkCore;
     using Diphda.Infrastructure.Mappings;
+    using Diphda.Domain.Account;
     
     public class DatabaseContext : DbContext
     {

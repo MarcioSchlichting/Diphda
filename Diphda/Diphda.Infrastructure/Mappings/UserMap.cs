@@ -2,6 +2,7 @@ namespace Diphda.Infrastructure.Mappings
 {
     using Microsoft.EntityFrameworkCore;
     using Microsoft.EntityFrameworkCore.Metadata.Builders;
+    using Diphda.Domain.Account;
 
     public sealed class UserMap : IEntityTypeConfiguration<User>
     {

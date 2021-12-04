@@ -3,3 +3,16 @@ C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.AssemblyInfo.cs
 C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Infrastructure.deps.json
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Infrastructure.runtimeconfig.json
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Infrastructure.runtimeconfig.dev.json
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Infrastructure.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\ref\Diphda.Infrastructure.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Infrastructure.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\bin\Debug\net5.0\Diphda.Domain.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.csproj.CopyComplete
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\ref\Diphda.Infrastructure.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.genruntimeconfig.cache
