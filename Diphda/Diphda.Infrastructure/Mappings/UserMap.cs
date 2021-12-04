@@ -17,7 +17,7 @@ namespace Diphda.Infrastructure.Mappings
                 .HasConversion(u => u.ToString(), user => user)
                 .IsRequired()
                 .HasColumnName("USERNAME")
-                .HasColumnType("varchar(100)");
+                .HasColumnType("VARCHAR(100)");
 
             builder
                 .Property(u => u.Password)

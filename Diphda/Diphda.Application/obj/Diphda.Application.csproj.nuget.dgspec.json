@@ -28,6 +28,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Domain\\Diphda.Domain.csproj": {
+                "projectPath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Domain\\Diphda.Domain.csproj"
+              },
               "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Infrastructure\\Diphda.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Infrastructure\\Diphda.Infrastructure.csproj"
               }

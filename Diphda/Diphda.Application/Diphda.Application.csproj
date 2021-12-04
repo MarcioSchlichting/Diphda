@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Diphda.Infrastructure\Diphda.Infrastructure.csproj" />
+    <ProjectReference Include="..\Diphda.Domain\Diphda.Domain.csproj" />
   </ItemGroup>
 
 </Project>
