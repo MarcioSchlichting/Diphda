@@ -1,0 +1,12 @@
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.csproj.AssemblyReference.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.AssemblyInfoInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.AssemblyInfo.cs
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\bin\Debug\net5.0\Diphda.Domain.deps.json
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\bin\Debug\net5.0\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\bin\Debug\net5.0\ref\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\bin\Debug\net5.0\Diphda.Domain.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\ref\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Domain\obj\Debug\net5.0\Diphda.Domain.pdb

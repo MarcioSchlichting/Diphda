@@ -1,16 +1,20 @@
 namespace Diphda.Domain.Account
 {
-    public sealed class User 
+    using Diphda.Domain.Abstractions;
+
+    public sealed class User : BaseEntity
     {
         private readonly string username;
 
-        private readonly string password;
+        private readonly Password password;
 
-        private bool verified;
+        private bool active;
 
-        public string Username { get { return username; } }
+        public string Username { get { return this.username; } }
 
-        public string Password { get { return password; } }
+        public Password Password { get { return this.password; } }
+
+        public bool Active { get { return this.active; } }
 
         public User(string username, string password)
         {

@@ -1,0 +1,5 @@
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.AssemblyInfo.cs
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Infrastructure\obj\Debug\net5.0\Diphda.Infrastructure.csproj.CoreCompileInputs.cache
