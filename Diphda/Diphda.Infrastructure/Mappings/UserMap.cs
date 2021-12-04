@@ -29,7 +29,7 @@ namespace Diphda.Infrastructure.Mappings
             builder.Property(u => u.Active)
                 .IsRequired()
                 .HasColumnName("ACTIVE")
-                .HasColumnType("BOOLEAN");
+                .HasColumnType("BIT");
         }
     }
 }

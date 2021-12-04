@@ -14,9 +14,11 @@ namespace Diphda.Infrastructure
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            modelBuilder.HasDefaultSchema("DIPHDA_PUBLIC");
+        
+            (new UserMap()).Configure(modelBuilder.Entity<User>());
 
-            modelBuilder.Entity<User>(new UserMap().Configure);
+            // modelBuilder.Entity<User>(new UserMap());
         }
     }
 }

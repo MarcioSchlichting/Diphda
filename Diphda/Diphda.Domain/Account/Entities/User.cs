@@ -21,5 +21,9 @@ namespace Diphda.Domain.Account
             this.username = username;
             this.password = password;
         }
+
+        protected User ()
+        {
+        }
     }
 }

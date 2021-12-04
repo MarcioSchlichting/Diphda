@@ -15,7 +15,7 @@ namespace Diphda.Infrastructure
             service.AddTransient<IBaseRepository<User>, UserRepository>();
             service.AddTransient<IBaseService<User>, UserService>();
             service.AddTransient<IBaseService<BaseEntity>, BaseService<BaseEntity>>();
-            // service.AddTransient<IBaseRepository<BaseEntity>, BaseRepository<BaseEntity>>();
+            service.AddTransient<IBaseRepository<BaseEntity>, BaseRepository<BaseEntity>>();
             service.AddScoped<DatabaseContext>();
         }
     }
