@@ -17,8 +17,6 @@ namespace Diphda.Infrastructure
             modelBuilder.HasDefaultSchema("DIPHDA_PUBLIC");
         
             (new UserMap()).Configure(modelBuilder.Entity<User>());
-
-            // modelBuilder.Entity<User>(new UserMap());
         }
     }
 }

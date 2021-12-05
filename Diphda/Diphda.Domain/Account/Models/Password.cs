@@ -15,5 +15,15 @@ namespace Diphda.Domain.Account
         {
             return new Password(value); // TODO: set validations here to create a new instance of password.
         }
+
+        public static bool operator == (Password leftPassword, Password rightPassword)
+        {
+            return leftPassword.Value == rightPassword.Value;
+        }
+
+        public static bool operator != (Password leftPassword, Password rightPassword)
+        {
+            return leftPassword.Value != rightPassword.Value;
+        }
     }
 }

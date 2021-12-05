@@ -22,7 +22,7 @@ namespace Diphda.Domain.Account
             this.password = password;
         }
 
-        protected User ()
+        private User ()
         {
         }
     }
