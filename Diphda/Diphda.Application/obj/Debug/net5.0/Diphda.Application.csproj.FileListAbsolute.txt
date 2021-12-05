@@ -1,0 +1,15 @@
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.csproj.AssemblyReference.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.AssemblyInfoInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.AssemblyInfo.cs
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.csproj.CoreCompileInputs.cache
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\Diphda.Application.deps.json
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\Diphda.Application.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\ref\Diphda.Application.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\Diphda.Application.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\Diphda.Domain.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\bin\Debug\net5.0\Diphda.Domain.pdb
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.csproj.CopyComplete
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\ref\Diphda.Application.dll
+C:\Users\Zilinho\Desktop\MyProject\Diphda\Diphda.Application\obj\Debug\net5.0\Diphda.Application.pdb

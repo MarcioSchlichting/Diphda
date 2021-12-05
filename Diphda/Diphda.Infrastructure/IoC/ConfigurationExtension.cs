@@ -1,5 +1,6 @@
 namespace Diphda.Infrastructure
 {
+    using AutoMapper;
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.DependencyInjection;
     using Microsoft.IdentityModel.Tokens;
@@ -9,6 +10,7 @@ namespace Diphda.Infrastructure
     using Diphda.Infrastructure.Repositories;
     using Diphda.Services;
     using Diphda.Infrastructure.CrossCutting;
+    using Diphda.Application;
     using System.Text;
 
     public static class ConfigurationExtension
@@ -21,6 +23,13 @@ namespace Diphda.Infrastructure
             service.AddTransient<IBaseService<BaseEntity>, BaseService<BaseEntity>>();
             service.AddTransient<IBaseRepository<BaseEntity>, BaseRepository<BaseEntity>>();
             service.AddScoped<DatabaseContext>();
+
+            var mapperConfig = new MapperConfiguration(config => 
+            {
+                config.AddProfile(new UserMapping());
+            });
+
+            service.AddSingleton(mapperConfig.CreateMapper());
         }
 
         public static void RegisterAuthentication(this IServiceCollection service)

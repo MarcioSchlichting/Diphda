@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mPx6ovOiPLxP7md67d/2IvfmxtEasrLk1LD8Bf7D20cBaZuFkwnIxBIjoor8M1Em2xJ5psxXYDRYdBtBCeODZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Application\\Diphda.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zilinho\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Zilinho\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "raAiRv1Qp9IE2zXXGTzpgcxKDhNdasACMtmzI9zo09aVInadlwhyYtdzrBPlJ77CnXkKpDJvgpphrAt+IqnZRA==",
+  "dgSpecHash": "nVo5xKWOoH4EsW0D1SfLAt/hqCazxI5XRYlMvoA6MW9ovNVUexh4nEViL7leqcbPHcrcBGYcTnlk90nG4cJUAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Zilinho\\Desktop\\MyProject\\Diphda\\Diphda.Infrastructure\\Diphda.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Zilinho\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -82,7 +83,7 @@
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Zilinho\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

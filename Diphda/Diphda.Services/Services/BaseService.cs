@@ -18,9 +18,9 @@ namespace Diphda.Services
             return await repository.AddAsync(entity);
         }
 
-        public async Task Delete(int id)
+        public async Task DeleteAsync(int id)
         {
-            await repository.Delete(id);
+            await repository.DeleteAsync(id);
         }
 
         public async Task<IEnumerable<TEntity>> GetAllAsync()
@@ -28,14 +28,14 @@ namespace Diphda.Services
             return await repository.GetAllAsync();
         }
 
-        public async Task<TEntity> GetById(int id)
+        public async Task<TEntity> GetByIdAsync(int id)
         {
-            return await repository.GetById(id);
+            return await repository.GetByIdAsync(id);
         }
 
         public async Task UpdateAsync(TEntity entity)
         {
-            await repository.Update(entity);
+            await repository.UpdateAsync(entity);
         }
     }
 }

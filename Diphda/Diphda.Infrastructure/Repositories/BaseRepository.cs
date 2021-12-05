@@ -14,9 +14,9 @@ namespace Diphda.Infrastructure.Repositories
             this.db = db;
         }
 
-        public async Task Delete(int id)
+        public async Task DeleteAsync(int id)
         {
-            db.Set<TEntity>().Remove(await GetById(id));
+            db.Set<TEntity>().Remove(await GetByIdAsync(id));
             await db.SaveChangesAsync();
         }
 
@@ -25,7 +25,7 @@ namespace Diphda.Infrastructure.Repositories
             return await db.Set<TEntity>().ToListAsync();
         }
 
-        public async Task<TEntity> GetById(int id)
+        public async Task<TEntity> GetByIdAsync(int id)
         {
             return await db.Set<TEntity>().FindAsync(id);
         }
@@ -38,7 +38,7 @@ namespace Diphda.Infrastructure.Repositories
             return entity.Id;
         }
 
-        public async Task Update(TEntity entity)
+        public async Task UpdateAsync(TEntity entity)
         {
             db.Entry(entity).State = EntityState.Modified;
             await db.SaveChangesAsync();

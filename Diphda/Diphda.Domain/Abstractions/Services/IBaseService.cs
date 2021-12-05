@@ -8,11 +8,11 @@ namespace Diphda.Domain.Abstractions
     {
         Task<int> AddAsync(TEntity entity);
 
-        Task Delete(int id);
+        Task DeleteAsync(int id);
 
         Task<IEnumerable<TEntity>> GetAllAsync();
 
-        Task<TEntity> GetById(int id);
+        Task<TEntity> GetByIdAsync(int id);
 
         Task UpdateAsync(TEntity entity);
     }
